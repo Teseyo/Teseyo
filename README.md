@@ -12,5 +12,3 @@
 ✍️ &nbsp;In my free time, I pursue UX/UI and my hobby play real-time strategy.\
 ✉️ &nbsp;You can send me an email at golden9208@gmail.com I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://github.com/Teseyo) for more details about me. I'm open to feedback and suggestions! -->
-
-<img alt="Night Coding" src="https://habrastorage.org/getpro/habr/post_images/261/7e0/cd5/2617e0cd55c0d25bc020621f4480917c.gif" align="right"/>
